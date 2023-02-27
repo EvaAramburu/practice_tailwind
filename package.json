@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build-css": "tailwindcss build src/style.css -o public/style.css"
+    "build-css": "tailwindcss build -i src/style.css -o public/style.css"
   },
   "author": "Eva Aramburu",
   "license": "ISC",
